@@ -6,3 +6,4 @@ hello git!
 version2  master change
 hot fixing!!!
 website change
+changed by clone
